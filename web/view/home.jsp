@@ -15,7 +15,7 @@
     <body>
         <header>
             <img id="logo" src="https://s7.gifyu.com/images/download297fb0d1e15e1dd8.jpg">          
-            <a href="" id="login-button">Đăng nhập</a>
+            <a href="http://localhost:8080/Project/view/login.jsp" id="login-button">Đăng nhập</a>
             <nav id="top-bar">
                 <a href="" class="navigation">Giới thiệu</a>
                 <a href="" class="navigation">Sự kiện</a>
