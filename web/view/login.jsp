@@ -20,7 +20,7 @@
                     <input type="text" required="required" name="email" placeholder="Email">
                 </div>
                 <div class="input-box">
-                    <input type="text" required="required" name="password" placeholder="Mật khẩu">
+                    <input type="password" required="required" name="password" placeholder="Mật khẩu">
                 </div>
                 <div class="input-box">
                     <input type="button" value="Đăng nhập">
